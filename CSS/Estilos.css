@@ -1,0 +1,39 @@
+.Argentina {
+    max-height: 280px;
+    margin: -225px 0 0 0;
+    max-width: 359px;
+}
+
+.Francia {
+    max-height: 280px;
+    margin: -225px 0 0 0;
+    max-width: 359px;
+}
+
+.España {
+    max-height: 4000px;
+    margin: -225px 0 0 0;
+    max-width: 400px;
+}
+
+.comment {
+    background: none;
+    font-style: italic;
+    color: black;
+    text-align: center;
+    border-top: solid rgba(128, 128, 128, 0.459);
+    margin-bottom: -15px;
+}
+
+section {
+    background-image: url(https://p2.piqsels.com/preview/2/304/4/plane-aircraft-take-off-sky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -250px;
+}
+
+text {
+    border-bottom: solid rgba(128, 128, 128, 0.459); border-top: solid rgba(128, 128, 128, 0.459);
+    margin-top: -100 px;
+    text-align: center;
+}
